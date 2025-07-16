@@ -1,4 +1,4 @@
-# travel-agency
+# Travel-Agency Database
 Project Overview
 This project builds a simulated travel agency database using cultural landmark data from Maryland, Virginia, and Washington, D.C. The goal is to support applications and services for landmark tours and tourism, providing value to tour guides, landmark managers, travel agencies, and travelers.
 
